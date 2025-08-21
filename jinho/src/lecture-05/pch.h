@@ -1,0 +1,9 @@
+#pragma once
+#include <filesystem>
+#include <fstream>
+#include <iostream>
+#include <iomanip>
+#include <vector>
+#include <array>
+#include <string>
+#include <regex>
